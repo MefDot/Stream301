@@ -1,0 +1,7 @@
+D:\!C#\Stream301\Stream301\bin\Debug\Stream301.exe.config
+D:\!C#\Stream301\Stream301\bin\Debug\Stream301.exe
+D:\!C#\Stream301\Stream301\bin\Debug\Stream301.pdb
+D:\!C#\Stream301\Stream301\obj\Debug\Stream301.csprojAssemblyReference.cache
+D:\!C#\Stream301\Stream301\obj\Debug\Stream301.csproj.CoreCompileInputs.cache
+D:\!C#\Stream301\Stream301\obj\Debug\Stream301.exe
+D:\!C#\Stream301\Stream301\obj\Debug\Stream301.pdb
